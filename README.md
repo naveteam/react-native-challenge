@@ -28,7 +28,7 @@ Para realizar o login, você deve usar a request de `user/login` disponível no 
 
 ### Listagem
 
-A página inicial do app tera uma lista dos `navers`.
+A página inicial do app terá uma lista dos `navers`.
 
 Para listar os `navers`, você deve usar a request de `navers/index` disponível no postman.
 
