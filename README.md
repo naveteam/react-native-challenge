@@ -8,7 +8,7 @@ O uso de [react native](https://reactnative.dev/) é essencial para o teste, poi
 
 ## Figma
 
-Use as telas do [figma]() para se guiar no desenvolvimento. O código de estilização não será tão importante quando o javascript, mas esperamos que o layout fique de acordo com as telas. Uma dica nossa é usar [styled-components](https://styled-components.com/) para a estilização, mas sinta-se a vontade para usar qualquer solução para estilos no react native.
+Use as telas do [figma](https://www.figma.com/file/MIh7DeADz8M3mmcQwpcFdD/Teste-Mobile?node-id=1253%3A0) para se guiar no desenvolvimento. O código de estilização não será tão importante quanto o javascript, mas esperamos que o layout fique de acordo com as telas. Uma dica nossa é usar [styled-components](https://styled-components.com/) para a estilização, mas sinta-se a vontade para usar qualquer solução para estilos no react native.
 
 ## API
 
@@ -45,6 +45,12 @@ O usuário precisa ter a possibilidade de criar um novo `naver` ou editar um já
 
 Para criar um `naver`, você deve usar a request de `navers/create` disponível no postman.
 Para editar um `naver`, você deve usar a request de `navers/update` disponível no postman.
+
+### Utilidades
+
+Para fazer a navegação entre rotas, utilize o [react-navigation](https://reactnavigation.org/docs/getting-started). Ele também fornece um componente de [drawer](https://reactnavigation.org/docs/drawer-based-navigation), que faz parte do layout que está no figma.
+
+Para fazer os alertas de sucesso/confirmação/erro, pode utilizar o componente de [modal do react native](https://reactnative.dev/docs/modal).
 
 ## Observações
 
