@@ -2,9 +2,9 @@
 
 ## Navedex
 
-O desafio é criar um aplicativo para visualização e criação dos navers, possuindo informações como: nomes, idades, cargos, tempo de empresa e projetos que participou.
+O desafio é criar um aplicativo para visualização e criação dos navers, possuindo informações como: nome, idade, cargo, tempo de empresa e projetos que participou.
 
-O uso de [react native](https://reactnative.dev/) é essencial para o teste, pois é a ferramenta que usamos para o desenvolvimento de apps na empresa. O uso de [expo](https://docs.expo.io/) ou da CLI do react native para inicializar o projeto, vai da preferência de quem está realizando o teste.
+O uso de [react native](https://reactnative.dev/) é essencial para o teste, pois, é a ferramenta que usamos para o desenvolvimento de apps na empresa. O uso de [expo](https://docs.expo.io/) ou da CLI do react native para inicializar o projeto, vai da preferência de quem está realizando o teste.
 
 ## Figma
 
